@@ -1,4 +1,4 @@
-# DevExtreme Vue UI and Visualization Components #
+# DevExtreme Vue UI and Visualization components #
 
 [![Build Status](https://img.shields.io/shippable/5444c5ecb904a4b21567b0ff/master.svg?maxAge=43200)](https://app.shippable.com/github/DevExpress/devextreme-vue)
 [![NPM](https://img.shields.io/npm/v/devextreme-vue.svg?maxAge=43200)](https://www.npmjs.com/package/devextreme-vue)
